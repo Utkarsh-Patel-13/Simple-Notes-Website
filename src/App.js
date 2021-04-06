@@ -1,6 +1,6 @@
 import "./App.css";
 
-import NoteList from "./NoteList";
+import NoteList from "./components/NoteList";
 
 function App() {
     return (
